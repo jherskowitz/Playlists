@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Ethereal for Real</title>
+    <creator>muSick in the Head</creator>
+    <date>2011-08-26T21:43:07</date>
+    <trackList>
+        <track>
+            <title>The River</title>
+            <creator>Anathallo</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>The Snow Leopard</title>
+            <creator>Shearwater</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Everybody Here Is A Cloud</title>
+            <creator>Cloud Cult</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Pinkies</title>
+            <creator>The Big Sleep</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Holiday</title>
+            <creator>Joan As Police Woman</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Inside A Boy</title>
+            <creator>My Brightest Diamond</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>I Capture Castles</title>
+            <creator>And So I Watch You From Afar</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Wet And Rusting</title>
+            <creator>Menomena</creator>
+            <album></album>
+        </track>
+    </trackList>
+</playlist>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Listening Party #1</title>
+    <creator>muSick in the Head</creator>
+    <date>2011-08-26T21:43:34</date>
+    <trackList>
+        <track>
+            <title>King of King's</title>
+            <creator>Revival</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Rough Gem</title>
+            <creator>Islands</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Dr. L'Ling</title>
+            <creator>Minus The Bear</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Your Misfortune</title>
+            <creator>Mike Doughty</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Love To A Monster</title>
+            <creator>Okkervil River</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>All the Holes In the Walls</title>
+            <creator>Birdmonster</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Ain't No Reason</title>
+            <creator>Brett Dennen</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Brave Captain</title>
+            <creator>fIREHOSE</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Vocal</title>
+            <creator>Madrugada</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Realize</title>
+            <creator>Ours</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Lilly White</title>
+            <creator>Rocky Votolato</creator>
+            <album></album>
+        </track>
+    </trackList>
+</playlist>

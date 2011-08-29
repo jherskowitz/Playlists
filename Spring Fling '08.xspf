@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Spring Fling 08</title>
+    <creator>muSick in the Head</creator>
+    <date>2011-08-26T21:43:47</date>
+    <trackList>
+        <track>
+            <title>Consoler Of The Lonely (Album Version)</title>
+            <creator>The Raconteurs</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Tigers In Our Hearts</title>
+            <creator>The Big Sleep</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Some Sorta Light</title>
+            <creator>Eastern Conference Champions</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>The Modern Leper</title>
+            <creator>Frightened Rabbit</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Knots</title>
+            <creator>Pete And The Pirates</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>I Got Mine</title>
+            <creator>The Black Keys</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>If this thing should spill</title>
+            <creator>Born in the Flood</creator>
+            <album></album>
+        </track>
+    </trackList>
+</playlist>
