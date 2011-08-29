@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Acceptember '11</title>
+    <creator></creator>
+    <date>2011-08-29T18:00:33</date>
+    <trackList>
+        <track>
+            <title>The Honest Truth</title>
+            <creator>Typhoon</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>A Little Piece</title>
+            <creator>The Jezabels</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Little Hell</title>
+            <creator>City And Colour</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Something Hiding For Us In The Night</title>
+            <creator>The Wooden Sky</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Man</title>
+            <creator>Cherbourg</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>The Race</title>
+            <creator>The Heavenly States</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>The Storm</title>
+            <creator>Boy &amp; Bear</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Bright Lights</title>
+            <creator>Gary Clark Jr.</creator>
+            <album>The Bright Lights EP</album>
+        </track>
+        <track>
+            <title>The Bomb</title>
+            <creator>Pigeon John</creator>
+            <album>The Bomb</album>
+        </track>
+        <track>
+            <title>Your Past Life as a Blast</title>
+            <creator>Okkervil River</creator>
+            <album>I Am Very Far</album>
+        </track>
+    </trackList>
+</playlist>
