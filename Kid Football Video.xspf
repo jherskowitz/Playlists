@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Kid Football Video</title>
+    <creator>My Collection</creator>
+    <date>2012-11-08T16:43:44</date>
+    <trackList>
+        <track>
+            <title>LA Medley</title>
+            <creator>Jane's Addiction</creator>
+            <album></album>
+        </track>
+        <track>
+            <title>Lexicon Devil</title>
+            <creator>The Germs</creator>
+            <album>M.I.A.: The Complete Germs</album>
+        </track>
+        <track>
+            <title>Time for Livin</title>
+            <creator>Beastie Boys</creator>
+            <album>Sounds of Science</album>
+        </track>
+        <track>
+            <title>Away Frm U</title>
+            <creator>Oberhofer</creator>
+            <album>Away Frm U</album>
+        </track>
+        <track>
+            <title>When I'm Alone</title>
+            <creator>Lissie</creator>
+            <album>Catching A Tiger</album>
+        </track>
+        <track>
+            <title>The Look</title>
+            <creator>Metronomy</creator>
+            <album>The English Riviera</album>
+        </track>
+        <track>
+            <title>Loop The Loop</title>
+            <creator>Wild Beasts</creator>
+            <album>Smother</album>
+        </track>
+        <track>
+            <title>Chateau</title>
+            <creator>Housse de Racket</creator>
+            <album>Alésia</album>
+        </track>
+        <track>
+            <title>I'm A Pilot</title>
+            <creator>Fanfarlo</creator>
+            <album>Reservoir</album>
+        </track>
+        <track>
+            <title>What You Wanted</title>
+            <creator>Spector</creator>
+            <album>What You Wanted</album>
+        </track>
+        <track>
+            <title>Black Hills</title>
+            <creator>Gardens &amp; Villa</creator>
+            <album>Gardens &amp; Villa</album>
+        </track>
+        <track>
+            <title>Get it Daddy</title>
+            <creator>Sleeper Agent</creator>
+            <album>Get it Daddy</album>
+        </track>
+    </trackList>
+</playlist>
